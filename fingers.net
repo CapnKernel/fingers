@@ -1,0 +1,38 @@
+# EESchema Netlist Version 1.1 created  Tue 12 Feb 2013 11:48:03 EST
+(
+ ( /4F58263D powerin P1 +
+  ( 1 N-000001 )
+ )
+ ( /4F582646 2SLOTPAD P2 +
+  ( 1 N-000001 )
+ )
+ ( /4F582664 2SLOTPAD P3 +
+  ( 1 N-000001 )
+ )
+ ( /4F582688 2SLOTPAD P4 +
+  ( 1 N-000001 )
+ )
+ ( /4F582687 2SLOTPAD P5 +
+  ( 1 N-000001 )
+ )
+ ( /4F583B59 powerin P6 -
+  ( 1 N-000002 )
+ )
+ ( /4F583B58 2SLOTPAD P7 -
+  ( 1 N-000002 )
+ )
+ ( /4F583B57 2SLOTPAD P8 -
+  ( 1 N-000002 )
+ )
+ ( /4F583B56 2SLOTPAD P9 -
+  ( 1 N-000002 )
+ )
+ ( /4F583B4E 2SLOTPAD P10 -
+  ( 1 N-000002 )
+ )
+ ( /5118E049 SIL-2S P11 CONN_2
+  ( 1 N-000001 )
+  ( 2 N-000002 )
+ )
+)
+*
